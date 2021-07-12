@@ -1,0 +1,18 @@
+C:\Users\Roman\source\repos\NeuronDots\NeuronDots\bin\Debug\netcoreapp3.1\NeuronDots.exe
+C:\Users\Roman\source\repos\NeuronDots\NeuronDots\bin\Debug\netcoreapp3.1\NeuronDots.deps.json
+C:\Users\Roman\source\repos\NeuronDots\NeuronDots\bin\Debug\netcoreapp3.1\NeuronDots.runtimeconfig.json
+C:\Users\Roman\source\repos\NeuronDots\NeuronDots\bin\Debug\netcoreapp3.1\NeuronDots.runtimeconfig.dev.json
+C:\Users\Roman\source\repos\NeuronDots\NeuronDots\bin\Debug\netcoreapp3.1\NeuronDots.dll
+C:\Users\Roman\source\repos\NeuronDots\NeuronDots\bin\Debug\netcoreapp3.1\NeuronDots.pdb
+C:\Users\Roman\source\repos\NeuronDots\NeuronDots\obj\Debug\netcoreapp3.1\NeuronDots.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\NeuronDots\NeuronDots\obj\Debug\netcoreapp3.1\NeuronDots.Form1.resources
+C:\Users\Roman\source\repos\NeuronDots\NeuronDots\obj\Debug\netcoreapp3.1\NeuronDots.csproj.GenerateResource.cache
+C:\Users\Roman\source\repos\NeuronDots\NeuronDots\obj\Debug\netcoreapp3.1\NeuronDots.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\NeuronDots\NeuronDots\obj\Debug\netcoreapp3.1\NeuronDots.AssemblyInfo.cs
+C:\Users\Roman\source\repos\NeuronDots\NeuronDots\obj\Debug\netcoreapp3.1\NeuronDots.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\NeuronDots\NeuronDots\obj\Debug\netcoreapp3.1\NeuronDots.dll
+C:\Users\Roman\source\repos\NeuronDots\NeuronDots\obj\Debug\netcoreapp3.1\NeuronDots.pdb
+C:\Users\Roman\source\repos\NeuronDots\NeuronDots\obj\Debug\netcoreapp3.1\NeuronDots.genruntimeconfig.cache
+C:\Users\Roman\source\repos\NeuronDots\NeuronDots\bin\Debug\netcoreapp3.1\Neural Network.pdb
+C:\Users\Roman\source\repos\NeuronDots\NeuronDots\obj\Debug\netcoreapp3.1\NeuronDots.csproj.CopyComplete
+C:\Users\Roman\source\repos\NeuronDots\NeuronDots\bin\Debug\netcoreapp3.1\Neural Network.dll
